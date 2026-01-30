@@ -1,0 +1,18 @@
+{
+  "searchbar": "Search games",
+  "section": "New",
+  "noGameFoundTitle" : "Νο games match your search.",
+  "noGameFoundText" : "Try searching for something else.",
+  "errors": {
+    "gameAccess": {
+      "kycpending": "Access to games is not allowed until you complete the identity verification process.",
+      "accountinactive": "Your account is inactive.",
+      "selfexcluded": "Access to games is not allowed during your self-exclusion period."
+    },
+    "lossLimit": {
+      "daily": "You’ve reached your daily loss limit.",
+      "weekly": "You’ve reached your weekly loss limit.",
+      "monthly": "You’ve reached your monthly loss limit."
+    }
+  }
+}

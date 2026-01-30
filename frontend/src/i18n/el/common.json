@@ -1,0 +1,35 @@
+{
+  "footer": {
+    "about": {
+      "title": "Σχετικά με εμάς",
+      "description": "Το CasinoApp είναι ένα εκπαιδευτικό project που αναπτύχθηκε στο πλαίσιο της τελικής εργασίας του εκπαιδευτικού σεμιναρίου «Coding Factory», το οποίο διοργανώνεται από το Οικονομικό Πανεπιστήμιο Αθηνών. Σκοπός του είναι η υλοποίηση του frontend και του backend μιας εφαρμογής τύπου καζίνο, καθώς και η διασύνδεσή της με μία εξωτερική υπηρεσία παροχής παιχνιδιών."
+    },
+    "responsibleGaming": "21+ | ΚΙΝΔΥΝΟΣ ΕΘΙΣΜΟΥ ΚΑΙ ΑΠΩΛΕΙΑΣ ΠΕΡΙΟΥΣΙΑΣ | ΓΡΑΜΜΗ ΒΟΗΘΕΙΑΣ: 1114 | ΠΑΙΞΕ ΥΠΕΥΘΥΝΑ",
+    "copyright": "CasinoApp. All Rights Reserved."
+  },
+  "header": {
+    "casino": "Casino",
+    "login": "ΣΥΝΔΕΣΗ",
+    "register": "ΕΓΓΡΑΦΗ",
+    "menu": {
+      "casino": "Casino"
+    },
+    "settings": "Γλώσσα"
+  },
+  "documentTitle": {
+    "casino": "Casino Online Παιχνίδια | CasinoApp",
+    "overview": "Επισκόπηση Λογαριασμού | CasinoApp",
+    "deposit": "Κατάθεση | CasinoApp",
+    "withdraw": "Ανάληψη | CasinoApp",
+    "history": "Ιστορικό Συναλλαγών | CasinoApp",
+    "profile": "Προφίλ | CasinoApp",
+    "security": "Σύνδεση & Ασφάλεια | CasinoApp",
+    "protection": "Προστασία Παίκτη | CasinoApp",
+    "verification": "Ταυτοποίηση Λογαριασμού | CasinoApp"
+  },
+  "404": {
+    "title": "404 Δεν βρέθηκε",
+    "description": "Η σελίδα που αναζητήσατε δεν υπάρχει.",
+    "return": "ΕΠΙΣΤΡΟΦΗ ΣΤΗΝ ΑΡΧΙΚΗ ΣΕΛΙΔΑ"
+  }
+}

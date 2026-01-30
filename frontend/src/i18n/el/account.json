@@ -1,0 +1,84 @@
+{
+  "sidebar": {
+    "title": "Μενού",
+    "overview": "Επισκόπηση",
+    "transactions": {
+      "title": "Κινήσεις",
+      "deposit": "Κατάθεση",
+      "withdraw": "Ανάληψη",
+      "history": "Ιστορικό"
+    }
+  },
+  "overview": {
+    "title": "Επισκόπηση",
+    "greeting": "Γεια σου, ",
+    "balance": "Υπόλοιπο",
+    "withdrawButton": "ΚΑΤΑΘΕΣΗ",
+    "depositButton": "ΑΝΑΛΗΨΗ"
+  },
+  "deposit": {
+    "title": "Κατάθεση",
+    "depositButton": "ΚΑΤΑΘΕΣΗ",
+    "success": "Επιτυχής κατάθεση!"
+  },
+  "withdraw": {
+    "title": "Ανάληψη",
+    "withdrawButton": "ΑΝΑΛΗΨΗ",
+    "success":"Επιτυχής ανάληψη!"
+  },
+  "errors": {
+    "required": "Παρακαλούμε γράψε ποσό",
+    "format": "Μη έγκυρο ποσό",
+    "depositLimits": "Το ποσό πρέπει να είναι μεταξύ 5 και 10.000",
+    "withdrawLimits": "Παρακαλούμε γράψε ποσό",
+    "insufficientBalance": "Μη επαρκές υπόλοιπο",
+    "kycNotVerified": "Η διαδικασία επαλήθευσης της ταυτότητάς σου δεν έχει ολοκληρωθεί",
+    "depositLimitExceeded": "Η κατάθεση που προσπαθείς να πραγματοποιήσεις υπερβαίνει το τρέχον όριό σου. Μπορείς να προσαρμόσεις το ποσό ή να περιμένεις μέχρι να επαναφερθεί το όριό σου.",
+    "selfExcluded": "Δεν μπορείς να πραγματοποιήσεις καταθέσεις κατά την περίοδο αυτοαποκλεισμού σου",
+    "generic": "Κάτι πήγε στραβά. Παρακαλούμε δοκίμασε ξανά αργότερα."
+  },
+
+  "transactions": {
+    "title": "Ιστορικό Συναλλαγών",
+    "oldBalance": "Παλιό Υπόλοιπο:",
+    "newBalance": "Νέο Υπόλοιπο:",
+    "types": {
+      "deposit": "Κατάθεση",
+      "withdraw": "Ανάληψη",
+      "bet": "Στοίχημα",
+      "win": "Κέρδοι",
+      "tax": "Φόροι",
+      "bonus": "Bonus"
+    },
+    "status": {
+      "pending": "Σε εκκρεμότητα",
+      "completed": "Ολοκληρωμένη",
+      "failed": "Απέτυχε",
+      "cancelled": "Ακυρώθηκε"
+    },
+    "noTransactionsFound": "Δεν βρέθηκαν συναλλαγές",
+    "filters": {
+      "title": "Φίλτρα",
+      "dateDescription": "Ταξινόμηση",
+      "startDate": "Ημερομηνία από",
+      "endDate": "Ημερομηνία έως",
+      "transactionTypeDescription": "Φιλτράρισμα ανά τύπο",
+      "includeDeposits": "Καταθέσεις",
+      "includeWithdrawals": "Αναλήψεις",
+      "includeCasino": "Casino",
+      "includeOther": "Άλλο",
+      "applyButton": "Εφαρμογή",
+      "clearButton": "Καθαρισμός"
+    },
+    "search": {
+      "title": "Αναζήτηση με Αρ. Συναλλαγής",
+      "innerTitle": "Αναζήτηση με ID",
+      "description": "Γράψε το ID της συναλλαγής",
+      "transactionId": "Αρ. Συναλλαγής",
+      "searchButton": "Αναζήτηση"
+    },
+    "errors": {
+      "downloadFailed": "Κάτι πήγε στραβά κατά τη λήψη του αρχείου."
+    }
+  }
+}

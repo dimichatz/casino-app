@@ -1,0 +1,155 @@
+{
+  "sidebar": {
+    "title": "Profile",
+    "edit": "Personal Details",
+    "security": "Login & Security",
+    "protection": "Player Protection",
+    "verification": "ID Verification"
+  },
+  "details": {
+    "title": "Personal Details",
+    "save": "SAVE",
+    "edit": "EDIT",
+    "cancel": "CANCEL",
+    "errors": {
+      "userEmailAlreadyExists": "This email address is already in use",
+      "userPhoneNumberAlreadyExists": "This mobile number is already in use",
+      "generic": "Something went wrong. Please try again later."
+    },
+    "email": {
+      "title": "Email",
+      "helper": "View and update the email address linked to your account.",
+      "success": "Email address changed successfully!",
+      "errors": {
+        "invalid": "The email address you have entered is invalid",
+        "max": "Must not exceed 60 characters"
+      }
+    },
+    "mobile": {
+      "title": "Mobile",
+      "helper": "View and update your mobile number.",
+      "success": "Phone number changed successfully!",
+      "errors": {
+        "format": "Phone number must be a Greek mobile number"
+      }
+    },
+    "address": {
+      "title": "Address",
+      "helper": "View and update your address.",
+      "success": "Address changed successfully!"
+    }
+  },
+  "security": {
+    "title": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "save": "Save",
+    "success": "Password changed successfully!",
+    "passwordRules": {
+      "length": "At least 8 characters",
+      "upper": "1 uppercase letter",
+      "lower": "1 lowercase letter",
+      "digit": "1 digit",
+      "special": "1 special character"
+    },
+    "errors": {
+      "currentPassword": "Current password is incorrect",
+      "newPassword": "New password must not be the same",
+      "generic": "Something went wrong. Please try again later."
+    }
+  },
+  "protection": {
+    "title": "Player Protection",
+    "save": "SAVE",
+    "reset": "RESET",
+    "edit": "EDIT",
+    "limits": {
+      "title": "Betting Limits",
+      "depositTitle": "Deposit Limits",
+      "lossTitle": "Loss Limits",
+      "maxAmountLabel": "Maximum deposit amount",
+      "maxAmountLabelLoss": "Maximum loss amount",
+      "selectPlaceholder": "Select period",
+      "depositTool": "Deposit limits are set for a specific time frame (daily, weekly, or monthly). You can decrease your deposit limit at any time and the change will take effect immediately. If you choose to increase your deposit limit, it will take effect one week after the request is made. While a limit increase is pending, you will not be able to make further changes.",
+      "lossTool": "Loss limits are set for a specific time frame (daily, weekly, or monthly). You can decrease your loss limit at any time and the change will take effect immediately. If you choose to increase your loss limit, it will take effect one week after the request is made. While a limit increase is pending, you will not be able to make further changes.",
+      "depositSuccess": "Deposit limit change saved successfully!",
+      "lossSuccess": "Loss limit change saved successfully!",
+      "myLimits": {
+        "deposit": "Current deposit limits:",
+        "loss": "Current loss limits:",
+        "daily": "Daily",
+        "weekly": "Weekly",
+        "monthly": "Monthly",
+        "day": "per day",
+        "week": "per week",
+        "month": "per month",
+        "depositPending": "Upcoming deposit limit:",
+        "lossPending": "Upcoming loss limit:",
+        "newDeposit": "New deposit limit:",
+        "newLoss": "New loss limit:",
+        "applyPending": "to be applied in 7 days",
+        "applyInstant": "to be applied immediately",
+        "applyFrom": "to be applied from",
+        "error": "You cannot edit your limits until the pending change takes effect."
+      }
+    },
+    "exclusion": {
+      "title": "Self-Exclusion",
+      "description": "By enabling Self-Exclusion you can exclude yourself accessing your account for a selected time frame. Self-Exclusion takes effect from the moment it is set by you, and lasts for any out of the available time frames selected (1 day, 1 week, 1 month, 2 months, 6 months, 1 year, Permanent).",
+      "sub-description-1": "During this period, you will not have access to any betting activities or deposits. However, you will still be able to use all other services. Once the self-exclusion period ends, you may choose to set it again.",
+      "sub-description-2": "By selecting Permanent Self-Exclusion, you will no longer be able to access our services, and your account will be blocked.",
+      "check": "I want to proceed to Self-Exclusion",
+      "periodLabel": "Period:",
+      "select": "Select",
+      "oneDay": "1 day",
+      "oneWeek": "1 week",
+      "oneMonth": "1 month",
+      "twoMonths": "2 months",
+      "sixMonths": "6 months",
+      "oneYear": "1 year",
+      "permanent": "Permanent",
+      "confirmTitle": "Confirm Self-Exclusion",
+      "confirmDescription": "Once enabled, you will not be able to access your account for the selected period.",
+      "confirmAction": "CONFIRM",
+      "cancel": "CANCEL",
+      "success": "Self-Exclusion period updated successfully!",
+      "errors": {
+        "playerPartialExclusion": "The selected self-exclusion period is shorter than your current active period and can’t be applied.",
+        "playerPermanentExclusion": "Your account is permanently self-excluded.",
+        "generic": "Something went wrong. Please try again later."
+      }
+    }
+  },
+  "verification": {
+    "title": "Identity Verification",
+    "description": "Here you can review your identity details and upload documents to verify your identity.",
+    "sub-description": "To complete verification, please upload a valid ID Card or Passport. We may need to contact you if additional information or clarification is required.",
+    "identity": {
+      "title": "Identity Details",
+      "documentType": {
+        "Passport": "Passport",
+        "IdCard": "ID Card"
+      },
+      "gender": {
+        "Male": "Male",
+        "Female": "Female"
+      }
+    },
+    "verified": "Your account identity verification has been successfully completed!",
+    "upload": {
+      "title": "Upload Verification Document",
+      "success": "Document uploaded successfully!",
+      "uploadBtn": "Upload Document",
+      "dragOrDrop": "Drag and drop a document, or click to select one, then press Upload Document to complete the process.",
+      "drop": "Drop the document here",
+      "fileRestrictions": "Accepted formats: .jpg, .jpeg, .png, .pdf (max 5 MB)",
+      "errors": {
+        "tooLarge": "The file must be smaller than 5MB.",
+        "tooSmall": "The file appears to be invalid.",
+        "invalidType": "Only JPG, JPEG, PNG or PDF files are allowed.",
+        "generic": "This file cannot be uploaded.",
+        "generic2": "Something went wrong. Please try again later."
+      }
+    }
+  }
+}

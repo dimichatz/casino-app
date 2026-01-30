@@ -1,0 +1,35 @@
+{
+  "footer": {
+    "about": {
+      "title": "About us",
+      "description": "CasinoApp is a non-commercial student project developed as the final part of the educational seminar \"Coding Factory\", organized by the Athens University of Economics and Business. The purpose of this project is to demonstrate the frontend and backend architecture of a casino-style application, as well as the integration with external game frontend and backend services. All features are simulated, and no real gambling takes place."
+    },
+    "responsibleGaming": "21+ | RISK OF ADDICTION & LOSS OF PROPERTY | HELPLINE: 1114 | PLAY RESPONSIBLY",
+    "copyright": "CasinoApp. All Rights Reserved."
+  },
+  "header": {
+    "casino": "Casino",
+    "login": "LOGIN",
+    "register": "REGISTER",
+    "menu": {
+      "casino": "Casino"
+    },
+    "settings": "Language"
+  },
+  "documentTitle": {
+    "casino": "Casino Online Games | CasinoApp",
+    "overview": "Account Overview | CasinoApp",
+    "deposit": "Deposit | CasinoApp",
+    "withdraw": "Withdraw | CasinoApp",
+    "history": "Transaction's History | CasinoApp",
+    "profile": "Profile | CasinoApp",
+    "security": "Profile Security | CasinoApp",
+    "protection": "Player Protection | CasinoApp",
+    "verification": "Verification Process | CasinoApp"
+  },
+  "404": {
+    "title": "404 Not found",
+    "description": "The page you are looking for does not exist.",
+    "return": "RETURN TO HOMEPAGE"
+  }
+}

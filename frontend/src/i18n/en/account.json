@@ -1,0 +1,84 @@
+{
+  "sidebar": {
+    "title": "Menu",
+    "overview": "Overview",
+    "transactions": {
+      "title": "Transactions",
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "history": "History"
+    }
+  },
+  "overview": {
+    "title": "Overview",
+    "greeting": "Hi, ",
+    "balance": "Balance",
+    "withdrawButton": "WITHDRAW",
+    "depositButton": "DEPOSIT"
+  },
+  "deposit": {
+    "title": "Deposit",
+    "depositButton": "DEPOSIT",
+    "success": "Deposit successful!"
+  },
+  "withdraw": {
+    "title": "Withdraw",
+    "withdrawButton": "WITHDRAW",
+    "success":"Withdraw successful!"
+  },
+  "errors": {
+    "required": "Please enter amount",
+    "format": "Please enter a valid amount",
+    "depositLimits": "Amount must be between 5 and 10.000",
+    "withdrawLimits": "Please enter amount",
+    "insufficientBalance": "Insufficient balance",
+    "kycNotVerified": "Your identity verification is still pending",
+    "depositLimitExceeded": "The requested deposit exceeds your current limit. You may adjust the amount or wait until your limit resets",
+    "selfExcluded": "You can’t make deposits during your self-exclusion period",
+    "generic": "Something went wrong. Please try again later."
+  },
+
+  "transactions": {
+    "title": "Transactions History",
+    "oldBalance": "Old Balance:",
+    "newBalance": "New Balance:",
+    "types": {
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "bet": "Bet",
+      "win": "Win",
+      "tax": "Tax",
+      "bonus": "Bonus"
+    },
+    "status": {
+      "pending": "Pending",
+      "completed": "Completed",
+      "failed": "Failed",
+      "cancelled": "Cancelled"
+    },
+    "noTransactionsFound": "No transactions found",
+    "filters": {
+      "title": "Filters",
+      "dateDescription": "Sort by",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "transactionTypeDescription": "Filter by type",
+      "includeDeposits": "Deposits",
+      "includeWithdrawals": "Withdraws",
+      "includeCasino": "Casino",
+      "includeOther": "Other",
+      "applyButton": "Apply",
+      "clearButton": "Clear"
+    },
+    "search": {
+      "title": "Search by Transaction ID",
+      "innerTitle": "Search by ID",
+      "description": "Write your Transaction ID ",
+      "transactionId": "Transaction ID",
+      "searchButton": "Search"
+    },
+    "errors": {
+      "downloadFailed": "Something went wrong while downloading the file."
+    }
+  }
+}
