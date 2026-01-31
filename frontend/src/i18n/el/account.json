@@ -13,8 +13,8 @@
     "title": "Επισκόπηση",
     "greeting": "Γεια σου, ",
     "balance": "Υπόλοιπο",
-    "withdrawButton": "ΚΑΤΑΘΕΣΗ",
-    "depositButton": "ΑΝΑΛΗΨΗ"
+    "withdrawButton": "ΑΝΑΛΗΨΗ",
+    "depositButton": "ΚΑΤΑΘΕΣΗ"
   },
   "deposit": {
     "title": "Κατάθεση",
