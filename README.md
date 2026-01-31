@@ -55,6 +55,7 @@ Selected screenshots can be found in:
 docs/screenshots/
 
 
+
 ## Running the Project
 
 ### Prerequisites
@@ -89,3 +90,10 @@ docs/screenshots/
     npm run dev
 
 > Note: Local URLs and ports for the frontend and backend are predefined in the project configuration.
+
+
+## Player Verification
+
+After registration, players must verify their identity to access all casino features.
+Verification is performed automatically by uploading a document via
+`/account/profile/verification`, as an administrative interface is not implemented.
