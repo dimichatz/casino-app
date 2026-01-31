@@ -1,0 +1,6 @@
+@CasinoAppBackend_HostAddress = http://localhost:5224
+
+GET {{CasinoAppBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

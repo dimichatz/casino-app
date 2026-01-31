@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoAppBackend", "CasinoAppBackend\CasinoAppBackend.csproj", "{F6AAF717-0CAF-49D2-9662-6146BE50EA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLowGameApi", "HighLowGameApi\HighLowGameApi.csproj", "{338D3292-384D-4717-B632-E92ADFF381EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AAF717-0CAF-49D2-9662-6146BE50EA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AAF717-0CAF-49D2-9662-6146BE50EA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AAF717-0CAF-49D2-9662-6146BE50EA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AAF717-0CAF-49D2-9662-6146BE50EA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338D3292-384D-4717-B632-E92ADFF381EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338D3292-384D-4717-B632-E92ADFF381EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338D3292-384D-4717-B632-E92ADFF381EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338D3292-384D-4717-B632-E92ADFF381EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF1D0D8-4169-40BF-ACBB-B3AA23C1B3F9}
+	EndGlobalSection
+EndGlobal

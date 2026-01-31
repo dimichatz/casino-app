@@ -1,0 +1,182 @@
+[
+  {
+    "CountryCode": "AL",
+    "CountryName": "Albania"
+  },
+  {
+    "CountryCode": "AD",
+    "CountryName": "Andorra"
+  },
+  {
+    "CountryCode": "AT",
+    "CountryName": "Austria"
+  },
+  {
+    "CountryCode": "BY",
+    "CountryName": "Belarus"
+  },
+  {
+    "CountryCode": "BE",
+    "CountryName": "Belgium"
+  },
+  {
+    "CountryCode": "BA",
+    "CountryName": "Bosnia and Herzegovina"
+  },
+  {
+    "CountryCode": "BG",
+    "CountryName": "Bulgaria"
+  },
+  {
+    "CountryCode": "HR",
+    "CountryName": "Croatia"
+  },
+  {
+    "CountryCode": "CY",
+    "CountryName": "Cyprus"
+  },
+  {
+    "CountryCode": "CZ",
+    "CountryName": "Czechia"
+  },
+  {
+    "CountryCode": "DK",
+    "CountryName": "Denmark"
+  },
+  {
+    "CountryCode": "EE",
+    "CountryName": "Estonia"
+  },
+  {
+    "CountryCode": "FI",
+    "CountryName": "Finland"
+  },
+  {
+    "CountryCode": "FR",
+    "CountryName": "France"
+  },
+  {
+    "CountryCode": "DE",
+    "CountryName": "Germany"
+  },
+  {
+    "CountryCode": "GR",
+    "CountryName": "Greece"
+  },
+  {
+    "CountryCode": "HU",
+    "CountryName": "Hungary"
+  },
+  {
+    "CountryCode": "IS",
+    "CountryName": "Iceland"
+  },
+  {
+    "CountryCode": "IE",
+    "CountryName": "Ireland"
+  },
+  {
+    "CountryCode": "IT",
+    "CountryName": "Italy"
+  },
+  {
+    "CountryCode": "LV",
+    "CountryName": "Latvia"
+  },
+  {
+    "CountryCode": "LI",
+    "CountryName": "Liechtenstein"
+  },
+  {
+    "CountryCode": "LT",
+    "CountryName": "Lithuania"
+  },
+  {
+    "CountryCode": "LU",
+    "CountryName": "Luxembourg"
+  },
+  {
+    "CountryCode": "MT",
+    "CountryName": "Malta"
+  },
+  {
+    "CountryCode": "MD",
+    "CountryName": "Moldova"
+  },
+  {
+    "CountryCode": "MC",
+    "CountryName": "Monaco"
+  },
+  {
+    "CountryCode": "ME",
+    "CountryName": "Montenegro"
+  },
+  {
+    "CountryCode": "NL",
+    "CountryName": "Netherlands"
+  },
+  {
+    "CountryCode": "MK",
+    "CountryName": "North Macedonia"
+  },
+  {
+    "CountryCode": "NO",
+    "CountryName": "Norway"
+  },
+  {
+    "CountryCode": "PL",
+    "CountryName": "Poland"
+  },
+  {
+    "CountryCode": "PT",
+    "CountryName": "Portugal"
+  },
+  {
+    "CountryCode": "RO",
+    "CountryName": "Romania"
+  },
+  {
+    "CountryCode": "RU",
+    "CountryName": "Russia"
+  },
+  {
+    "CountryCode": "SM",
+    "CountryName": "San Marino"
+  },
+  {
+    "CountryCode": "RS",
+    "CountryName": "Serbia"
+  },
+  {
+    "CountryCode": "SK",
+    "CountryName": "Slovakia"
+  },
+  {
+    "CountryCode": "SI",
+    "CountryName": "Slovenia"
+  },
+  {
+    "CountryCode": "ES",
+    "CountryName": "Spain"
+  },
+  {
+    "CountryCode": "SE",
+    "CountryName": "Sweden"
+  },
+  {
+    "CountryCode": "CH",
+    "CountryName": "Switzerland"
+  },
+  {
+    "CountryCode": "UA",
+    "CountryName": "Ukraine"
+  },
+  {
+    "CountryCode": "GB",
+    "CountryName": "United Kingdom"
+  },
+  {
+    "CountryCode": "VA",
+    "CountryName": "Vatican City"
+  }
+]
