@@ -6,11 +6,11 @@ and an external game service.
 
 ## Project Structure
 
-casino-app/
+```casino-app/
 ├── frontend/   - Web client (React + Vite)
 ├── backend/    - ASP.NET Core backend and external game service (ASP.NET Core + Unity)
 └── docs/       - Screenshots
-
+```
 
 ## Frontend
 
