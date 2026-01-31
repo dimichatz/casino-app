@@ -73,7 +73,10 @@ docs/screenshots/
     (`CasinoAppBackend` and `HighLowGameApi`), using the corresponding
     `appsettings.example.json` files as references.
 
-3. Ensure both backend projects (`CasinoAppBackend` and `HighLowGameApi`) are running
+3. Create the required databases in SQL Server and apply the Entity Framework Core migrations
+   (e.g. using the `Update-Database` command) for each backend project using the Package Manager Console.
+
+4. Ensure both backend projects (`CasinoAppBackend` and `HighLowGameApi`) are running
    by setting each one as the startup project when needed.
 
 
